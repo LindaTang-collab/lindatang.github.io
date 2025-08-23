@@ -4,7 +4,7 @@ body {
   background-color: #f5f5f5;
   margin: 0;
   padding: 20px;
-  background-image: url("images/circuit-bg.png");  /* path to your image */
+  background-image: url("imagescircuit-bg.png.jpg");  /* path to your image */
   background-size: cover;   /* makes it cover the whole screen */
   background-position: center; /* keeps it centered */
   background-attachment: fixed; /* makes it stay fixed when scrolling */
